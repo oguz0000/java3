@@ -11,7 +11,7 @@ public class Main {
 			fak = fak * i;
 			System.out.println(fak);
 		}
-
+System.out.println("hi");
 	}
 
 }
