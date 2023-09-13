@@ -9,7 +9,8 @@ public class Main {
 		int fak = 1;
 		for (int i = 5; i > 1; i--) {
 			fak = fak * i;
-			System.out.println(fak);
+			System.out.println(fak); 
+			
 		}
 System.out.println("hi");
 	}
